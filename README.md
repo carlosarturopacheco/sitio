@@ -1,6 +1,6 @@
 <!-- Para abrir el preview en Atom: ^ (control) + shift + M -->
 
-# README
+# Proyecto Lenguaje III
 [![platform][License]][License]
 [![platform][Platform]][Platform]
 
